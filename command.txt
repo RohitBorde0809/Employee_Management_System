@@ -1,0 +1,2 @@
+javac -cp ".;mysql-connector-j-8.0.32.jar" *.java
+java -cp ".;mysql-connector-j-8.0.32.jar" Main
